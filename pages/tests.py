@@ -1,5 +1,5 @@
-from django.test import TestCase
-from django.test import SimpleTestCase
+from django.test import TestCase # au cas ou j'utilise  de base de donnéé
+from django.test import SimpleTestCase #je l'utilise car je n'utilise pas de base de donnéé
 # Create your tests here.
 # pages/tests.py
 
